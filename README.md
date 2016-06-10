@@ -1,2 +1,2 @@
 # aspnet
-Defrent kind of asp net base project
+Different kind of asp.net base project
